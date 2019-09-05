@@ -27,4 +27,4 @@ A major objective of the GENDISPATCH WG is to provide timely, clear dispositions
 
 Another major objective of the GENDISPATCH WG is to streamline how the IETF community considers process improvements. Discussions about process suggestions that begin on other mailing lists, including ietf@ietf.org, or via direct requests to the IESG, will be redirected to the GENDISPATCH mailing list where they will be facilitated by the WG chairs. For proposals to be considered by the WG they will be expected to meet guiding principle #1 above.
 
-Work related to the IAB, IRTF, RFC Editor processes is out of scope. 
+Work related to the IAB, IRTF, and RFC Editor processes is out of scope. 
