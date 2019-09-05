@@ -4,7 +4,7 @@ Guiding principles for the proposed new work include:
 
 1. Providing a clear problem statement, historical context, motivation, and deliverables for the proposed new work.
 
-2. Ensuring there has been adequate mailing list discussion reflecting sufficient interest, individuals have expressed a willingness to contribute and there is WG consensus before new work is dispatched.
+2. Ensuring there has been adequate mailing list discussion reflecting sufficient interest, individuals have expressed a willingness to contribute (if appropriate given the subject matter of the proposal) and there is WG consensus before new work is dispatched.
 
 3. Looking for and identifying commonalities and overlap amongst published or ongoing work in the GEN area, within the IESG, or within the IETF LLC.
 
@@ -25,6 +25,6 @@ Proposed new work may be deferred in cases where the WG does not have enough inf
 
 A major objective of the GENDISPATCH WG is to provide timely, clear dispositions of new efforts. Thus, where there is consensus to take on new work, the WG will strive to quickly find a home for it. While most new work in the GEN area is expected to be considered in the GENDISPATCH working group, there may be times where that is not appropriate. At the discretion of the GEN AD, new efforts may follow other paths. For example, work may go directly to a BOF, may be initiated in other working groups when it clearly belongs in that group, or may be directly AD-sponsored.
 
-Another major objective of the GENDISPATCH WG is to streamline how the IETF community considers process improvements. Discussions about process suggestions that begin on other mailing lists, including ietf@ietf.org, or via direct requests to the IESG, will be redirected to the GENDISPATCH mailing list where they will be facilitated by the WG chairs. For proposals to be considered by the WG they will be expected to meet guiding principle #1 above.
+Another major objective of the GENDISPATCH WG is to streamline how the IETF community considers process improvements. Community discussions about process suggestions that begin on other mailing lists, including ietf@ietf.org, or via direct requests to the IESG, will be redirected to the GENDISPATCH mailing list where they will be facilitated by the WG chairs. For proposals to be considered by the WG they will be expected to meet guiding principle #1 above.
 
-Work related to the IAB, IRTF, and RFC Editor processes is out of scope. 
+The existence of this working group does not change the IESG's responsibilities as described in RFC 3710. Work related to the IAB, IRTF, and RFC Editor processes is out of scope. 
