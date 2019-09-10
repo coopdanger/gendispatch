@@ -1,4 +1,4 @@
-The GENDISPATCH working group is a DISPATCH-style working group chartered to consider proposals for new work in the GEN area, including proposals for changes or improvements to the IETF process and process documents. The working group is chartered to identify, or help create, an appropriate venue for the work.
+The GENDISPATCH working group is a DISPATCH-style working group (see RFC 7957) chartered to consider proposals for new work in the GEN area, including proposals for changes or improvements to the IETF process and process documents. The working group is chartered to identify, or help create, an appropriate venue for the work.
 
 Guiding principles for the proposed new work include:
 
@@ -19,7 +19,7 @@ Options for handling new work include:
 - Deferring the decision for the new work. 
 - Rejecting the new work.
 
-If the group decides that a particular topic needs to be addressed by a new WG, the normal IETF chartering process will be followed, including, for instance, IETF-wide review of the proposed charter. Proposals for large work efforts SHOULD lead to a BOF where the topic can be discussed in front of the entire IETF community. Documents progressed as AD-sponsored would typically include those that are extremely simple or make minor updates to existing process documents that were previously AD-sponsored.
+If the group decides that a particular topic needs to be addressed by a new WG, the normal IETF chartering process will be followed, including, for instance, IETF-wide review of the proposed charter. Proposals for large work efforts SHOULD lead to a BOF where the topic can be discussed in front of the entire IETF community. Documents progressed as AD-sponsored would typically include those that are extremely simple or make minor updates to existing process documents.
 
 Proposed new work may be deferred in cases where the WG does not have enough information for the chairs to determine consensus. New work may be rejected in cases where there is not sufficient WG interest or the proposal has been considered and rejected in the past, unless a substantially revised proposal is put forth, including compelling new reasons for accepting the work.
 
