@@ -14,7 +14,7 @@ Options for handling new work include:
 - Developing a proposal for a BOF. 
 - Developing a charter for a new WG. 
 - Making recommendations that documents be AD-sponsored (which ADs may or may not choose to follow).  
-- Directing the work to be considered by the IESG or the IETF LLC
+- Directing the work to be considered by the IESG or the IETF LLC.
 - Deferring the decision for the new work. 
 - Rejecting the new work.
 
