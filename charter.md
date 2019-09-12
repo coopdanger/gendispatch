@@ -1,4 +1,4 @@
-The GENDISPATCH working group is a DISPATCH-style working group (see RFC 7957) chartered to consider proposals for new work in the GEN area, including proposals for changes or improvements to the IETF process and process documents. The working group is chartered to identify, or help create, an appropriate venue for the work.
+The GENDISPATCH working group is a DISPATCH-style working group (see RFC 7957) chartered to consider proposals for new work in the GEN area, including proposals for changes or improvements to the IETF process and process documents. The working group is chartered to identify, or help create, an appropriate venue for the work. The working group will not consider any technical work.
 
 Guiding principles for the proposed new work include:
 
@@ -24,6 +24,6 @@ Proposed new work may be deferred in cases where the WG does not have enough inf
 
 A major objective of the GENDISPATCH WG is to provide timely, clear dispositions of new efforts. Thus, where there is consensus to take on new work, the WG will strive to quickly find a home for it. While most new work in the GEN area is expected to be considered in the GENDISPATCH working group, there may be times where that is not appropriate. At the discretion of the GEN AD, new efforts may follow other paths. For example, work may go directly to a BOF, may be initiated in other working groups when it clearly belongs in that group, or may be directly AD-sponsored.
 
-Another major objective of the GENDISPATCH WG is to streamline how the IETF community considers process improvements. Community discussions about process suggestions that begin on other mailing lists, including ietf@ietf.org, will be redirected to the GENDISPATCH mailing list where they will be facilitated by the WG chairs.  Direct requests to the IESG may also, after proper consideration, be redirected to the WG. For proposals to be considered by the WG they will be expected to meet guiding principle #1 above.
+Another major objective of the GENDISPATCH WG is to streamline how the IETF community considers process improvements. Community discussions about process suggestions that begin on other mailing lists, including ietf@ietf.org, will be redirected to the GENDISPATCH mailing list where they will be facilitated by the WG chairs. The WG chairs will coordinate with the sergeants-at-arms to facilitate redirection from ietf@ietf.org. Direct requests to the IESG may also, after proper consideration, be redirected to the WG. For proposals to be considered by the WG they will be expected to meet guiding principle #1 above.
 
 The existence of this working group does not change the IESG's responsibilities as described in RFC 3710. Work related to the IAB, IRTF, and RFC Editor processes is out of scope. 
